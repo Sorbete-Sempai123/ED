@@ -1,3 +1,4 @@
+#Yober Maycol Mendoza Surco
 import numpy
 
 from matplotlib import pyplot as mp
